@@ -1,0 +1,4 @@
+frontend/
+ml-service/
+node_modules
+.env
